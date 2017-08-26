@@ -1,0 +1,33 @@
+{
+  "name": "waiting_to_die",
+  "version": "1.0.0",
+  "description": "## A node.js single project exhibition and documentation app or artists",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intaglioplate312/waiting_to_die.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/intaglioplate312/waiting_to_die/issues"
+  },
+  "homepage": "https://github.com/intaglioplate312/waiting_to_die#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "detect-file": "^1.0.0",
+    "express-fileupload": "^0.1.4",
+    "express-handlebars": "^3.0.0",
+    "express.js": "^1.0.0",
+    "install": "^0.10.1",
+    "method-override": "^2.3.9",
+    "mysql": "^2.14.1",
+    "npm": "^5.3.0",
+    "sequelize": "^4.7.5"
+  }
+}
