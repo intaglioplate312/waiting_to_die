@@ -1,15 +1,5 @@
-# waiting_to_die
+# All images are the property of the artist and may not be used for any purpose without prior written consent.
 
-## A node.js single project exhibition and documentation app or artists
-
-### node.js modules:
-            Express.js
-            Body-Parser
-            Express-Handlebars
-            MySql
-            Method-Override
-            Path-Exists
-            File-System
-            Express-FileUpload
-            Detect-File
-
+## 50 over Fifty: Portraits of Aging in America
+### Site Redesign
+### All code is freely shared 
