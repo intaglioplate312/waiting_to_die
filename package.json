@@ -27,7 +27,7 @@
     "install": "^0.10.1",
     "method-override": "^2.3.9",
     "mysql": "^2.14.1",
-    "npm": "^5.3.0",
+    "npm": "^6.14.8",
     "sequelize": "^4.7.5"
   }
 }
